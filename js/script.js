@@ -5,8 +5,8 @@ let loginButton = document.querySelector(".loginButton");
 let counterContainer = document.querySelector(".counterContainer");
 
 //regsiter
-let registerUser = ""; 
-let registerPassword = "";
+let registerUser
+let registerPassword
 
 let registerButton = document.querySelector(".registerButton");
 //cambiar de login a registro modal
